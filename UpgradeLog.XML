@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FlashGrabber2">
+</Property><Property Name="Solution File" Value="F:\Мой софт\FlashGrabber2\FlashGrabber2.sln">
+</Property><Property Name="User Options File" Value="F:\Мой софт\FlashGrabber2\FlashGrabber2.suo">
+</Property><Property Name="Date" Value="14 апреля 2010 г.">
+</Property><Property Name="Time" Value="17:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FlashGrabber2.sln" Description="File successfully backed up as F:\Мой софт\FlashGrabber2\FlashGrabber2.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="FlashGrabber2.suo" Description="File successfully backed up as F:\Мой софт\FlashGrabber2\FlashGrabber2.suo.old">
+</Event><Event ErrorLevel="0" Project="FlashGrabber2" Source="FlashGrabber2\FlashGrabber2.vcproj" Description="Converting project file 'F:\Мой софт\FlashGrabber2\FlashGrabber2\FlashGrabber2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="FlashGrabber2" Source="FlashGrabber2\FlashGrabber2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="FlashGrabber2" Source="FlashGrabber2\FlashGrabber2.vcproj" Description="Done converting to new project file 'F:\Мой софт\FlashGrabber2\FlashGrabber2\FlashGrabber2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="FlashGrabber2" Source="FlashGrabber2\FlashGrabber2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Builder.vcproj" Description="Converting project file 'F:\Мой софт\FlashGrabber2\Builder\Builder.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Builder" Source="Builder\Builder.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Builder.vcproj" Description="Done converting to new project file 'F:\Мой софт\FlashGrabber2\Builder\Builder.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Builder" Source="Builder\Builder.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FlashGrabber2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FlashGrabber2.sln" Description="Converted">
+</Event></UpgradeLog>

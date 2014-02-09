@@ -1,0 +1,1 @@
+@for /r %%i in  (*.ncb,*.pdb,*.pch,*.ilk,*.idb,*.obj,*.htm,*.dep,*.res,*.manifest,*.aps) do @del "%%i" > nul

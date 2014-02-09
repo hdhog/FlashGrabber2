@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlashGrabber", "FlashGrabber2\FlashGrabber2.vcxproj", "{BBFC8310-220B-476D-95AA-B11D526C9160}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Builder", "Builder\Builder.vcxproj", "{C9AAECCB-0514-4162-BBDB-AD4ACA341AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFC8310-220B-476D-95AA-B11D526C9160}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBFC8310-220B-476D-95AA-B11D526C9160}.Debug|Win32.Build.0 = Debug|Win32
+		{BBFC8310-220B-476D-95AA-B11D526C9160}.Release|Win32.ActiveCfg = Release|Win32
+		{BBFC8310-220B-476D-95AA-B11D526C9160}.Release|Win32.Build.0 = Release|Win32
+		{C9AAECCB-0514-4162-BBDB-AD4ACA341AD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9AAECCB-0514-4162-BBDB-AD4ACA341AD4}.Debug|Win32.Build.0 = Debug|Win32
+		{C9AAECCB-0514-4162-BBDB-AD4ACA341AD4}.Release|Win32.ActiveCfg = Release|Win32
+		{C9AAECCB-0514-4162-BBDB-AD4ACA341AD4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
